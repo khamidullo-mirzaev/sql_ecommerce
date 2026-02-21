@@ -18,7 +18,7 @@ It covers real-world scenarios such as managing customers, products, categories,
 
 ## 🗂️ Database Schema
 
-<img width="1171" height="672" alt="ERD" src="https://github.com/user-attachments/assets/6965c5d6-5009-4ab5-b3f4-7dd96afabefe" />
+<img width="500" height="300" alt="ERD" src="https://github.com/user-attachments/assets/6965c5d6-5009-4ab5-b3f4-7dd96afabefe" />
 
 ## 📋 Tables Description
 
